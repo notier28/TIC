@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-25T21:05:51.544Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="CyiHYH5Oq1GHbFS8HDUE" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-25T21:08:43.018Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="iDXAeIHkVlQeImwFDb73" version="13.7.5" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1240" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -103,22 +103,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gfSWL-QbI_VBYcg2U4fT-1542" value="Construido por&#xa; el docente" style="rounded=1;strokeColor=none;strokeWidth=3;shadow=0;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=16;fillColor=#E85642;" vertex="1" parent="1">
-          <mxGeometry x="1820" y="435" width="200" height="110" as="geometry" />
+          <mxGeometry x="1790" y="460" width="200" height="110" as="geometry" />
         </mxCell>
         <mxCell id="gfSWL-QbI_VBYcg2U4fT-1543" value="Conceptos" style="rounded=1;strokeColor=none;strokeWidth=3;shadow=0;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=16;fillColor=#E85642;" vertex="1" parent="1">
           <mxGeometry x="2160" y="450" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gfSWL-QbI_VBYcg2U4fT-1544" value="Ideas" style="rounded=1;strokeColor=none;strokeWidth=3;shadow=0;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=16;fillColor=#E85642;" vertex="1" parent="1">
-          <mxGeometry x="2270" y="640" width="200" height="110" as="geometry" />
+          <mxGeometry x="2160" y="550" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gfSWL-QbI_VBYcg2U4fT-1545" value="Teorias" style="rounded=1;strokeColor=none;strokeWidth=3;shadow=0;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=16;fillColor=#E85642;" vertex="1" parent="1">
           <mxGeometry x="2160" y="400" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gfSWL-QbI_VBYcg2U4fT-1546" value="Prácticas" style="rounded=1;strokeColor=none;strokeWidth=3;shadow=0;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=16;fillColor=#E85642;" vertex="1" parent="1">
-          <mxGeometry x="2410" y="460" width="170" height="80" as="geometry" />
+          <mxGeometry x="2160" y="510" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gfSWL-QbI_VBYcg2U4fT-1547" value="Experiencias" style="rounded=1;strokeColor=none;strokeWidth=3;shadow=0;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=16;fillColor=#E85642;" vertex="1" parent="1">
-          <mxGeometry x="1970" y="610" width="160" height="50" as="geometry" />
+          <mxGeometry x="2160" y="600" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
