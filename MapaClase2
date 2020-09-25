@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-25T21:25:26.367Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="gLtTWNDgZ50d0Ps2pjyl" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-25T21:25:52.665Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="QVemqB8EAjgnOV0EXGyt" version="13.7.5" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="2616" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1768" dy="332" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -96,10 +96,10 @@
         <mxCell id="gfSWL-QbI_VBYcg2U4fT-1536" value="Es el QUÉ se enseña" style="rounded=1;strokeWidth=3;shadow=0;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=16;strokeColor=#E85642;fillColor=#E85642;" parent="1" vertex="1">
           <mxGeometry x="1810" y="620" width="200" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="gfSWL-QbI_VBYcg2U4fT-1537" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;entryX=0.027;entryY=0.363;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.948;exitY=0.275;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="HNAcb3RaCeQIMagIuF4d-1554" target="gfSWL-QbI_VBYcg2U4fT-1536" edge="1">
+        <mxCell id="gfSWL-QbI_VBYcg2U4fT-1537" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;exitX=0.948;exitY=0.275;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.367;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="HNAcb3RaCeQIMagIuF4d-1554" target="gfSWL-QbI_VBYcg2U4fT-1536" edge="1">
           <mxGeometry x="-98.74368670764352" y="295.16368670764354" width="100" height="100" as="geometry">
             <mxPoint x="1690" y="730" as="sourcePoint" />
-            <mxPoint x="1800" y="709" as="targetPoint" />
+            <mxPoint x="1800" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gfSWL-QbI_VBYcg2U4fT-1542" value="Construido por&#xa; el docente" style="rounded=1;strokeColor=none;strokeWidth=3;shadow=0;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=20;fillColor=#E85642;" parent="1" vertex="1">
