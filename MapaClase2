@@ -1,23 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2020-09-25T20:16:56.477Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="V733x-HGi3pXTu1IifEB" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-25T20:33:30.428Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="AUDSAfrNRJRy9cx2S3Ql" version="13.7.5" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="496" dy="275" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1063" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="HNAcb3RaCeQIMagIuF4d-1550" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;dashed=1;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="640.25" y="414" width="900" height="900" as="geometry" />
+        <mxCell id="HNAcb3RaCeQIMagIuF4d-1550" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;dashed=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="610" y="331.5" width="990" height="990" as="geometry" />
         </mxCell>
         <mxCell id="1351" value="Conocimiento de Contenidos Tecnológicos (TCK)" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#F08705;strokeColor=none;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="1016" y="650" width="170" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="HNAcb3RaCeQIMagIuF4d-1547" value="Conocimiento del Contenido (CK)" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#E85642;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="HNAcb3RaCeQIMagIuF4d-1547" value="Conocimiento del Contenido (CK)" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#E85642;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1240" y="650" width="190" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="HNAcb3RaCeQIMagIuF4d-1546" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="HNAcb3RaCeQIMagIuF4d-1546" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="839.5" y="800" width="501.5" height="501.5" as="geometry" />
         </mxCell>
-        <mxCell id="HNAcb3RaCeQIMagIuF4d-1545" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="650" y="504" width="536" height="536" as="geometry" />
+        <mxCell id="HNAcb3RaCeQIMagIuF4d-1545" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="650" y="497.25" width="536" height="536" as="geometry" />
         </mxCell>
         <mxCell id="1353" value="Conocimiento Pedagogico del Contenido (CPK)" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#1699D3;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="1140" y="866.75" width="166" height="166.5" as="geometry" />
@@ -210,7 +210,7 @@
         <mxCell id="1458" value="Echericia Colli" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1715" y="680" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HNAcb3RaCeQIMagIuF4d-1549" value="Conocimiento Pedagogico (PK)" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#736ca8;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="HNAcb3RaCeQIMagIuF4d-1549" value="Conocimiento Pedagogico (PK)" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#736ca8;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1000" y="1050" width="200" height="203" as="geometry" />
         </mxCell>
         <mxCell id="1350" value="Conocimiento sobre la Tecnologia (TK)" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#1699D3;strokeColor=none;" parent="1" vertex="1">
@@ -219,14 +219,17 @@
         <mxCell id="HNAcb3RaCeQIMagIuF4d-1552" value="Es el CÓMO se enseña" style="rounded=1;strokeColor=none;strokeWidth=3;shadow=0;fontColor=#FFFFFF;fillColor=#A29DC5;labelBackgroundColor=none;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="836" y="1360" width="190" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="HNAcb3RaCeQIMagIuF4d-1553" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;" edge="1" parent="1" source="HNAcb3RaCeQIMagIuF4d-1549" target="HNAcb3RaCeQIMagIuF4d-1552">
+        <mxCell id="HNAcb3RaCeQIMagIuF4d-1553" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;" edge="1" target="HNAcb3RaCeQIMagIuF4d-1552" parent="1" source="HNAcb3RaCeQIMagIuF4d-1549">
           <mxGeometry x="-763" y="-166" width="100" height="100" as="geometry">
             <mxPoint x="759.0668022863365" y="1508.1781059284847" as="sourcePoint" />
             <mxPoint x="-663" y="-166" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HNAcb3RaCeQIMagIuF4d-1554" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1013" y="504" width="536" height="536" as="geometry" />
+          <mxGeometry x="1016" y="511.5" width="530" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="HNAcb3RaCeQIMagIuF4d-1556" value="&lt;b&gt;&lt;font face=&quot;Tahoma&quot;&gt;Contexto&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="860" y="414" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
