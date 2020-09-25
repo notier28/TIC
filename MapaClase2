@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-25T19:28:15.882Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="2SJwXCjPKmPRd8VgdQOJ" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-25T19:28:46.081Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="3HkFKtG19qjdzi1c7lYZ" version="13.7.5" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1240" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -353,7 +353,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1515" value="Conocimiento Tecnológico Pedagógico del Contenido (TPACK)" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=30;fontColor=#2F5B7C;align=center;strokeColor=#2F5B7C;strokeWidth=6;fillColor=#FFFFFF;fontStyle=1;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="890" y="651.5" width="270" height="270" as="geometry" />
+          <mxGeometry x="890" y="622" width="270" height="270" as="geometry" />
         </mxCell>
         <mxCell id="1516" value="Conocimiento Pedagogico Tecnologico (TPK)" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#736ca8;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="508" y="918.5" width="180" height="171.5" as="geometry" />
